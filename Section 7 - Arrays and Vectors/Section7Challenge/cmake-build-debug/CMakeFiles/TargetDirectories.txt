@@ -1,0 +1,3 @@
+/Users/iCanDigital/projects/cpp_projects/Beginning C++ Programming - From Beginner to Beyond/Section 6 - Variables and Constants/Section6Challenge/cmake-build-debug/CMakeFiles/Section6Challenge.dir
+/Users/iCanDigital/projects/cpp_projects/Beginning C++ Programming - From Beginner to Beyond/Section 6 - Variables and Constants/Section6Challenge/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/iCanDigital/projects/cpp_projects/Beginning C++ Programming - From Beginner to Beyond/Section 6 - Variables and Constants/Section6Challenge/cmake-build-debug/CMakeFiles/rebuild_cache.dir

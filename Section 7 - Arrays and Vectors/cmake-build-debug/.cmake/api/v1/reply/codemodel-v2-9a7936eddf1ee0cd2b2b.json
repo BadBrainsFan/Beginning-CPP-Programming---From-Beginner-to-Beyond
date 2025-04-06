@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Section_7___Arrays_and_Vectors",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Section_7___Arrays_and_Vectors::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Section_7___Arrays_and_Vectors-Debug-61403307fc15308cedc7.json",
+					"name" : "Section_7___Arrays_and_Vectors",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/iCanDigital/projects/cpp_projects/Beginning C++ Programming - From Beginner to Beyond/Section 7 - Arrays and Vectors/cmake-build-debug",
+		"source" : "/Users/iCanDigital/projects/cpp_projects/Beginning C++ Programming - From Beginner to Beyond/Section 7 - Arrays and Vectors"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
