@@ -64,7 +64,7 @@ int main() {
     std::cout << vector_2d.at(0).at(0) << "\t" << vector_2d.at(0).at(1) << "\t" << vector_2d.at(1).at(0)
     << "\t" << vector_2d.at(1).at(1) << std::endl;
 
-    std::cout << vector1.at(0) <<"\t" <<vector1.size() << std::endl;
+    std::cout << vector1.at(0) <<"\t" << vector1.size() << std::endl;
 
     return 0;
 }
