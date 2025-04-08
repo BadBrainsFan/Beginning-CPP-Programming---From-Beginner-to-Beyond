@@ -1,0 +1,4 @@
+
+z	cpp:S5276t"Yimplicit conversion from 'size_type' (aka 'unsigned long') to 'double' may lose precision(ÆÊ¶¥üÿÿÿÿ8×™“¯á2
+p	cpp:S3776I"TRefactor this function to reduce its Cognitive Complexity from 27 to the 25 allowed.(Ôˆ™“8ð™“¯á2
+hcpp:S134\"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(÷ÉÛØ8ñ™“¯á2
